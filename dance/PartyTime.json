@@ -1,0 +1,516 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{c10be00c-dd25-4c29-a4d6-4ad42feb655b}",
+    "type": "Box",
+    "lastEdited": 1669126867596409,
+    "name": "Dance Point",
+    "position": {
+        "x": 1.476272463798523,
+        "y": 0,
+        "z": 0.00614166259765625
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669119890365498,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": 1.231323480606079,
+        "y": -0.24494898319244385,
+        "z": -0.2388073205947876,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./mf3/sitClient.js",
+    "serverScripts": "./mf3/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{71f56799-7364-4736-9d45-08512fedc37f}",
+    "type": "Box",
+    "lastEdited": 1669126646497112,
+    "name": "Dance Point",
+    "position": {
+        "x": 0,
+        "y": 0.004013888072222471,
+        "z": 0.0242462158203125
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669121995758521,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": -0.24494898319244385,
+        "y": -0.24093510210514069,
+        "z": -0.22070276737213135,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./fem6/sitClient.js",
+    "scriptTimestamp": 1669122450086,
+    "serverScripts": "./fem6/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a1cf714e-7470-47b6-8770-1e5cf2cb084f}",
+    "type": "Box",
+    "lastEdited": 1669126646498546,
+    "name": "Dance Point",
+    "position": {
+        "x": 0.453291654586792,
+        "y": 0.029195792973041534,
+        "z": 0
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669119353233806,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": 0.20834267139434814,
+        "y": -0.2157531976699829,
+        "z": -0.24494898319244385,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./fem1/sitClient.js",
+    "scriptTimestamp": 1669119419399,
+    "serverScripts": "./fem1/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{9a1b3ce9-372f-460e-9a54-ad17cfd982be}",
+    "type": "Box",
+    "lastEdited": 1669126646497763,
+    "name": "Dance Point",
+    "position": {
+        "x": 1.49235200881958,
+        "y": 0.000802852213382721,
+        "z": 0.4055938720703125
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669125142832468,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": 1.2474030256271362,
+        "y": -0.24414613842964172,
+        "z": 0.16064488887786865,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./fem8/sitClient.js",
+    "scriptTimestamp": 1669125977260,
+    "serverScripts": "./fem8/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{dff0a26e-c6ec-40c6-ab3f-9de154228440}",
+    "type": "Box",
+    "lastEdited": 1669126734277331,
+    "name": "Dance Point",
+    "position": {
+        "x": 0.9549652338027954,
+        "y": 0.01251304056495428,
+        "z": 0.007598876953125
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669118667532936,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": 0.7100162506103516,
+        "y": -0.232435941696167,
+        "z": -0.23735010623931885,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./mf2/sitClient.js",
+    "scriptTimestamp": 1669119285383,
+    "serverScripts": "./mf2/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0278569f-6d13-4dff-bc52-0d54c86466b1}",
+    "type": "Box",
+    "lastEdited": 1669126646495620,
+    "name": "Dance Point",
+    "position": {
+        "x": 0.4776430130004883,
+        "y": 0.009247668087482452,
+        "z": 0.4105796813964844
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669121444130824,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": 0.23269402980804443,
+        "y": -0.235701322555542,
+        "z": 0.16563069820404053,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./mf5/sitClient.js",
+    "serverScripts": "./mf5/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2d9da780-746b-4ea4-84ab-2e2e038a0daa}",
+    "type": "Box",
+    "lastEdited": 1669126646496581,
+    "name": "Dance Point",
+    "position": {
+        "x": 0.01576530933380127,
+        "y": 0.013952984474599361,
+        "z": 0.4047737121582031
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669120996212510,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": -0.22918367385864258,
+        "y": -0.2309959977865219,
+        "z": 0.15982472896575928,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./male4/sitClient.js",
+    "scriptTimestamp": 1669121690854,
+    "serverScripts": "./male4/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{fba9697d-e5c6-400c-819e-df0e0800eca9}",
+    "type": "Box",
+    "lastEdited": 1669126646500617,
+    "name": "Dance Point",
+    "position": {
+        "x": 0.9786088466644287,
+        "y": 0.012618920765817165,
+        "z": 0.3988990783691406
+    },
+    "dimensions": {
+        "x": 0.20000000298023224,
+        "y": 0.20000000298023224,
+        "z": 0.20000000298023224
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 1,
+        "z": 0.5
+    },
+    "created": 1669124618819632,
+    "lastEditedBy": "{538d88de-7409-4c4c-bc27-314c814b5aaf}",
+    "queryAACube": {
+        "x": 0.7336598634719849,
+        "y": -0.2323300689458847,
+        "z": 0.15395009517669678,
+        "scale": 0.4898979663848877
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "./mf7/sitClient.js",
+    "serverScripts": "./mf7/sitServer.js",
+    "alpha": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{5b4ff02d-4247-4c5d-b915-8600e019d70d}",
+  "Version": 133
+}
